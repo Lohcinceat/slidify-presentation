@@ -1,7 +1,7 @@
 ---
 title       : Student Performance Prediction (Shiny App)
 subtitle    : Data Miners Group Presentation
-author      : Yousef (S2141806), Hanani (S2150141), Jasmeen (S2142739), Loh Cin (S2141070)
+author      : Yousef (S2141806), Hanani (S2150141), Jasmeen (S2142739), Loh Cin Ceat (S2141070)
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
